@@ -6,3 +6,9 @@ https://docs.kentico.com/display/K82/Using+ASP.NET+Web+API+with+Kentico#UsingASP
 
 You might also want to check how to add custom modules in Kentico: 
 https://docs.kentico.com/display/K82/Initializing+modules+to+run+custom+code
+
+Here's how to configure your Kentico instance to enable REST services:
+
+https://docs.kentico.com/display/K82/Configuring+the+REST+service
+
+https://docs.kentico.com/display/K9/Configuring+the+REST+service
