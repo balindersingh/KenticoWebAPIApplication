@@ -1,9 +1,8 @@
-﻿using CMS;
-using CMS.DataEngine;
+﻿using CMS.DataEngine;
 using System.Web.Http;
 using System.Data.Entity;
 using System.Web.Http.Cors;
-[assembly: RegisterModule(typeof(CustomAppModule))]
+[assembly: CMS.RegisterModule(typeof(CustomAppModule))]
 /// <summary>
 /// Summary description for CustomApp
 /// </summary>
