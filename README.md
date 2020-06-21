@@ -1,4 +1,7 @@
 # Kentico Web API Application
+
+![.Net CI](https://github.com/balindersingh/KenticoWebAPIApplication/workflows/.Net%20CI/badge.svg?branch=master)
+
 ASP.Net Web API in Kentico 8.2 also can be used with Kentico 9 -- need to change dll references. 
 This project contains Web API controller by which a call to Kentico Rest service can be made and User can return response back to Client from Web API response. 
 Please check out the official Kentico documentation for How to use Web API in Kentico solution here: 
